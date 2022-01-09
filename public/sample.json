@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "North Korea successfully tested hypersonic missile, says report",
+            "description": "State media KNCA said the missile from yesterday's launch had \"precisely hit\" its target.",
+            "url": "http://www.bbc.co.uk/news/world-asia-59876989",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/124C3/production/_122574947_072943708.jpg",
+            "publishedAt": "2022-01-06T18:52:24.3790284Z",
+            "content": "Image caption, State media KNCA reported the missile had \"precisely hit\" a target located 700km away.\r\nNorth Korea successfully tested a hypersonic missile on Wednesday, its first major weapons test … [+2455 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Peter Bogdanovich: The Last Picture Show director dies aged 82",
+            "description": "The New York filmmaker was Oscar-nominated for his coming-of-age drama starring Cybill Shepherd.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-59897962",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11832/production/_122603717_bog976.jpg",
+            "publishedAt": "2022-01-06T18:37:21.9798292Z",
+            "content": "Peter Bogdanovich, the US film director known for films such The Last Picture Show and Paper Moon has died aged 82, his agent confirmed on Thursday.\r\nThe New Yorker's work became synonymous with the … [+648 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Novak Djokovic: Serbs seethe over tennis hero's entry ban",
+            "description": "Compatriots rally behind their icon as he fights deportation from Australia over vaccine rules.",
+            "url": "http://www.bbc.co.uk/news/world-europe-59900129",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EA42/production/_122607995_gettyimages-1237564588-594x594.jpg",
+            "publishedAt": "2022-01-06T18:07:23.1256277Z",
+            "content": "By Guy DelauneyBBC News, Balkans correspondent\r\nImage source, Getty Images\r\nImage caption, Novak Djokovic's family cried foul at his treatment by Australia at a rally outside Serbia's parliament\r\nSpo… [+3585 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Mob attacking police were like 'possessed zombies'",
+            "description": "Capitol Police officer Harry Dunn recalls the moment he thought he may get shot by rioters.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59888868",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9CFD/production/_122598104_p0bfmdbg.jpg",
+            "publishedAt": "2022-01-06T17:52:21.2099335Z",
+            "content": "Police officer Harry Dunn thought he might die on 6 January as an angry mob of Trump supporters attacked the US Capitol. \r\nA year on, he's still traumatised by his experiences on the frontline - and … [+106 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ethiopia civil war: Tigray hospital running out of food for starving children",
+            "description": "The hospital treating Surafeal in Ethiopia's Tigray region is also running out of food.",
+            "url": "http://www.bbc.co.uk/news/world-africa-59893216",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/046A/production/_122603110_mediaitem122603109.jpg",
+            "publishedAt": "2022-01-06T15:07:20.8149052Z",
+            "content": "By Catherine ByaruhangaBBC News Africa correspondent\r\nImage source, Getty Images\r\nThree-month old Surafeal Mearig lies helpless at the biggest hospital in Ethiopia's war-torn region of Tigray. \r\nHis … [+4390 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Kazakhstan unrest: Government restores fuel price cap after bloodshed",
+            "description": "The government reinstates vehicle fuel price caps for six months after dozens die in mass protests.",
+            "url": "http://www.bbc.co.uk/news/world-asia-59896471",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12F83/production/_122599677_4_almaty_reuters.jpg",
+            "publishedAt": "2022-01-06T14:52:20.2629912Z",
+            "content": "Image caption, Troops pictured in the main square in Almaty, Kazakhstan's largest city\r\nKazakhstan's government is restoring vehicle fuel price caps for six months, after days of deadly unrest.\r\nPetr… [+4465 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Novak Djokovic will be deported if he hasn't told truth, deputy PM says",
+            "description": "Rich people are not above the law, Australia's deputy PM says, as the player launches legal appeal.",
+            "url": "http://www.bbc.co.uk/news/world-australia-59896771",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/35FC/production/_122602831_gettyimages-1352148393.jpg",
+            "publishedAt": "2022-01-06T13:37:36.8255344Z",
+            "content": "Media caption, Fans of tennis legend Novak Djokovic have gathered outside the player's hotel to voice their support\r\nWorld number one men's tennis player Novak Djokovic should be deported from Austra… [+5108 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Capitol riot: US marks one year since attack in Washington",
+            "description": "President Biden will deliver a speech from inside the halls of Congress, blaming Donald Trump.",
+            "url": "http://www.bbc.co.uk/news/live/world-us-canada-59889762",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+            "publishedAt": "2022-01-06T13:37:28.8431462Z",
+            "content": "Part of the programme in Washington today includes a discussion with historians over the significance of last year's events.\r\nAccording to those looking back on the impact of the 6 January attack, th… [+1042 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Jon Stewart denies accusing JK Rowling of anti-Semitism",
+            "description": "The US chat-show host denies accusing the Harry Potter author of anti-Semitism in comments on a podcast.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-59893206",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/40D8/production/_122600661_hi071452613.jpg",
+            "publishedAt": "2022-01-06T13:07:22.6926524Z",
+            "content": "Image caption, Jon Stewart hosted The Daily Show for 16 years and now fronts an Apple TV current-affairs programme\r\nUS chat-show host Jon Stewart has denied accusing Harry Potter author JK Rowling of… [+3682 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ashers 'gay cake' case: European court rules case inadmissible",
+            "description": "A bakery firm was taken to court for refusing to make a cake with a \"Support Gay Marriage\" slogan.",
+            "url": "http://www.bbc.co.uk/news/uk-northern-ireland-59882444",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8BD8/production/_122600853_790d2557-4379-4aff-8afd-8eea4e72df21.jpg",
+            "publishedAt": "2022-01-06T11:07:27.2918482Z",
+            "content": "By Eimear FlanaganBBC News NI\r\nImage caption, Gay rights activist Gareth Lee sued a Christian-run bakery for refusing to make a cake decorated with the slogan \"Support Gay Marriage\"\r\nThe European Cou… [+4471 chars]"
+        }
+    ]
+}
