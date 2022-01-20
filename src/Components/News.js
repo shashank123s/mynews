@@ -10,6 +10,7 @@ export class News extends Component {
         loading:false
         }
       }
+    //   news api
     async  componentDidMount(){
         let url="https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=c32daaf137624b03aba1b94cb1f67c53";
         let data= await fetch(url);
